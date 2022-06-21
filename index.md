@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Skype Downloader Page
 
-You can use the [editor on GitHub](https://github.com/Anthony3333fg/skypedownloader.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this site you can download any old version of skype and modify the exe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+On the github source code you can download skype 0.97, older version that a man on discord is recreating. 
+### The versions
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
